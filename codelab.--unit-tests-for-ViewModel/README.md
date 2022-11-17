@@ -1,3 +1,5 @@
+### https://developer.android.com/codelabs/basic-android-kotlin-compose-test-viewmodel
+
 This codelab teaches you to write unit tests to test the ViewModel component. You will add unit tests for the Unscramble game app. The [Unscramble](https://github.com/google-developer-training/android-basics-kotlin-unscramble-app) app is a fun word game where users have to guess a scrambled word and earn points for guessing correctly. The following image shows a preview of the app:
 
 
@@ -15,6 +17,20 @@ You learned:
 
 Before you proceed, make sure that you complete the Write automated tests and ViewModel and State in Compose codelabs.
 
+## Prerequisites
+* Knowledge of Kotlin, including functions, lambdas, and stateless composables
+* Basic knowledge of how to build layouts in Jetpack Compose
+* Basic knowledge of Material Design
+* Basic knowledge of how to implement ViewModel
+## What you'll learn
+* How to add dependencies for unit tests in the app module's build.gradle file
+* How to create a test strategy to implement unit tests
+* How to write unit tests using JUnit4 and understand the test instance lifecycle
+* How to run, analyze, and improve code coverage
+## What you'll build
+* Unit tests for the Unscramble game app
+
+*** 
 
 Unscramble app
 =================================
