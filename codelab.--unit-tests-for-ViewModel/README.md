@@ -2,9 +2,9 @@
 
 This codelab teaches you to write unit tests to test the ViewModel component. You will add unit tests for the Unscramble game app. The [Unscramble](https://github.com/google-developer-training/android-basics-kotlin-unscramble-app) app is a fun word game where users have to guess a scrambled word and earn points for guessing correctly. The following image shows a preview of the app:
 
-
-![ecb509065f9993b1](https://user-images.githubusercontent.com/94898232/202433056-103937e9-b062-4db4-a199-bb81c56c3e63.gif)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/94898232/202433056-103937e9-b062-4db4-a199-bb81c56c3e63.gif" width="330" height="668"/>
+</div>
 
 In the [Write automated tests](https://developer.android.com/codelabs/basic-android-kotlin-compose-write-automated-tests?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-write-automated-tests#0) codelab, you learned what automated tests are and why they are important. You also learned how to implement unit tests.
 
